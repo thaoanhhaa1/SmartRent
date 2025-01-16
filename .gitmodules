@@ -1,0 +1,6 @@
+[submodule "kltn-backend"]
+	path = kltn-backend
+	url = https://github.com/thaoanhhaa1/kltn-backend.git
+[submodule "kltn-frontend"]
+	path = kltn-frontend
+	url = https://github.com/thaoanhhaa1/kltn-frontend.git
